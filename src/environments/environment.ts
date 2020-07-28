@@ -3,7 +3,17 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  irebaseConfig: {
+	  apiKey: "AIzaSyDguUL00qE-96S4TFNsmQ2XQ7s_OsUbuNg",
+	  authDomain: "lotus-library-b8df2.firebaseapp.com",
+	  databaseURL: "https://lotus-library-b8df2.firebaseio.com",
+	  projectId: "lotus-library-b8df2",
+	  storageBucket: "lotus-library-b8df2.appspot.com",
+	  messagingSenderId: "41339519479",
+	  appId: "1:41339519479:web:ae418c4340df80bb6caef2",
+	  measurementId: "G-ENE1VJV75Z"
+	}
 };
 
 /*
